@@ -1,1 +1,0 @@
-# Atividade-de-While-e-Listas-
